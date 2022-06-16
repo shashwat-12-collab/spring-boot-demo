@@ -1,0 +1,3 @@
+com/uni/customer/domain/aggregate/Customer$CustomerBuilder.class
+com/uni/customer/domain/aggregate/Customer.class
+com/uni/customer/domain/service/CustomerService.class
